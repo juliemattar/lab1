@@ -7,3 +7,4 @@ thisEmailIsToLong@wow0123456789wow0123456789wow0123456789.co.il  @1234Abcd
 thisEmailIsok@wow0123456789.co.il  @1234Abcd
 passwordTooShort@mail.ru 123
 passwordToolong@mail.ru 123456789ABcdefg
+julie.ma0608@gmail.com 102030Aa!
