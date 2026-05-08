@@ -7,24 +7,24 @@ import javafx.stage.Stage;
 
 import java.io.IOException;
 
-public class HelloApplication extends Application {
+public class LoginMain extends Application {
 
     @Override
     public void start(Stage stage) throws IOException {
 
         // Load the login.fxml file from the same package
-        FXMLLoader fxmlLoader = new FXMLLoader(HelloApplication.class.getResource("login.fxml"));
+        FXMLLoader fxmlLoader = new FXMLLoader(LoginMain.class.getResource("login.fxml"));
 
         // Create a new scene from the FXML file
         Scene scene = new Scene(fxmlLoader.load(), 320, 240);
 
-        // Set the title of the window
+        // Set the window title
         stage.setTitle("Users Login");
 
         // Put the scene inside the window
         stage.setScene(scene);
 
-        // Show the window on the screen
+        // Show the window
         stage.show();
     }
 

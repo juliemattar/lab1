@@ -62,7 +62,7 @@
                 <artifactId>javafx-maven-plugin</artifactId>
                 <version>0.0.8</version>
                 <configuration>
-                    <mainClass>org.example.lab2/org.example.lab2.HelloApplication</mainClass>
+                    <mainClass>org.example.lab2/org.example.lab2.LoginMain</mainClass>
                 </configuration>
             </plugin>
 

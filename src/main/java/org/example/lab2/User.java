@@ -1,4 +1,5 @@
 package org.example.lab2;
+
 public class User {
     private String username;
     private String password;
