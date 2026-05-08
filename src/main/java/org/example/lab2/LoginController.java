@@ -113,7 +113,7 @@ public class LoginController {
             Stage stage = (Stage) usernameField.getScene().getWindow();
 
             // Create a new scene with the welcome screen
-            Scene scene = new Scene(root, 600, 400);
+            Scene scene = new Scene(root, 320, 240);
 
             // Set the new scene on the same window
             stage.setScene(scene);
