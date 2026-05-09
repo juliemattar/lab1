@@ -28,8 +28,4 @@ public class LoginMain extends Application {
         stage.show();
     }
 
-    // The main method starts the program
-    public static void main(String[] args) {
-        launch(args);
-    }
 }
