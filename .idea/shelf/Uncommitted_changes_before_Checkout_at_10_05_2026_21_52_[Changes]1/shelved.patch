@@ -1,0 +1,16 @@
+Index: src/main/java/org/example/lab2/Launcher.java
+===================================================================
+diff --git a/src/main/java/org/example/lab2/Launcher.java b/src/main/java/org/example/lab2/Launcher.java
+deleted file mode 100644
+--- a/src/main/java/org/example/lab2/Launcher.java	(revision 6e34d09612176b47dbea8d3b85a7ee680f0753f7)
++++ /dev/null	(revision 6e34d09612176b47dbea8d3b85a7ee680f0753f7)
+@@ -1,9 +0,0 @@
+-package org.example.lab2;
+-
+-import javafx.application.Application;
+-
+-public class Launcher {
+-    public static void main(String[] args) {
+-        Application.launch(LoginMain.class, args);
+-    }
+-}
