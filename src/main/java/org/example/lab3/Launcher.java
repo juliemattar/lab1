@@ -1,4 +1,4 @@
-package org.example.lab2;
+package org.example.lab3;
 
 import javafx.application.Application;
 
